@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/381d143e-8ecd-4a0a-bc34-854e0bd137da
 
 ---
 
-## 💾 Game Features
+## 🎯 Features
 
 * **Character Selection:** Choose from multiple distinct pixel-art avatars including Ninja Frog, Mask Dude and Pinkie.
 
