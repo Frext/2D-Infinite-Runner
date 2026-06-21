@@ -2,7 +2,7 @@
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3.9f1-blue.svg?style=flat&logo=unity)](https://unity.com/)
 [![Language](https://img.shields.io/badge/Language-C%23-green.svg?style=flat&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-![Platform](https://img.shields.io/badge/Platform-Windows-orange?logo=windows)
+[![Platform](https://img.shields.io/badge/Platform-Windows-orange?logo=windows)](https://www.microsoft.com/windows/)
 
 A fast-paced, side-scrolling 2D endless runner game where you avoid hazards, dodge obstacles, and survive as long as possible.
 
