@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/381d143e-8ecd-4a0a-bc34-854e0bd137da
 
 * **Character Selection:** Choose from multiple distinct pixel-art avatars including Ninja Frog, Mask Dude and Pinkie.
 
-* **Difficulty Scaling:** Customize the frequency of obstacles via the in-game options.
+* **Difficulty Options:** Customize the frequency of obstacles via the in-game options.
 
 * **Dynamic Obstacles:** Survive against rotating buzzsaws, spiked blocks, and stone towers that pop up as time progresses.
 
